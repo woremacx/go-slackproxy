@@ -1,0 +1,9 @@
+{
+    "bind": ":9200",
+    "proxy_list": {
+        "TokenOfOutgoingWebHooks": {
+            "url": "https://hooks.slack.com/services/URL/Of/Webhook/URL",
+            "net": "nickname to add"
+        }
+    }
+}
